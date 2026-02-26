@@ -100,9 +100,7 @@ const Home: React.FC = () => {
               <span className="text-accent-teal font-medium uppercase tracking-wider">Selected Work</span>
               <h2 className="text-4xl font-serif font-bold mt-2">Recent Projects</h2>
             </div>
-            <Link to="work/" className="hidden md:flex items-center text-stone-900 font-medium hover:text-accent-teal transition-colors group">
-              View All Projects <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
-            </Link>
+            <a href="./work/" className="...">View All Projects</a>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
