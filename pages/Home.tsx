@@ -112,7 +112,7 @@ const Home: React.FC = () => {
           </div>
           
           <div className="mt-12 text-center md:hidden">
-             <Button variant="outline" href="/portfolio/#/work">View All Projects</Button>
+             <Button variant="outline" href="#/work">View All Projects</Button>
           </div>
         </div>
       </Section>
