@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="text-center md:text-left">
             <h3 className="text-2xl font-serif text-white mb-2">Let's work together.</h3>
             <p className="text-stone-400 max-w-sm">
-              Open to opportunities in UI/UX Design, Product Research, and Data Analytics.
+              Open to opportunities in UI/UX Design, Product Research, Product Management, and Data Analytics.
             </p>
           </div>
 
