@@ -19,7 +19,7 @@ const Contact: React.FC = () => {
             Build something <br/> meaningful together.
           </h1>
           <p className="text-xl text-stone-600 mb-12 max-w-2xl mx-auto">
-            I’m currently open to full-time roles in UI/UX Design and Product Research — feel free to reach out, I’d love to connect.
+            I’m currently open to full-time roles in UI/UX Design, Product Research, and Product Management — feel free to reach out, I’d love to connect.
           </p>
 
           <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto mb-16">
